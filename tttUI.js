@@ -14,7 +14,7 @@ $(document).ready(function() {
           $($("li")[i]).removeClass("empty");
         }
         
-        alert(Board.winner() + "won!");
+        alert(Board.winner() + " won!");
       }
     }
   });
