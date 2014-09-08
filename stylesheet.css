@@ -36,3 +36,14 @@ ul:after {
   content: " ";
   clear: both;
 }
+
+h1 {
+	font-family: sans-serif;
+	font-size: 50px;
+}
+
+p {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 40px;
+}
